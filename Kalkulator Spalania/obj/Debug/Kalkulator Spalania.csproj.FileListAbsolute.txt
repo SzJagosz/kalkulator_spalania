@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Kalkulator Spalania\Kalkulator Spalania\bin\Debug\Kalkulator Spalania.exe.config
+C:\Users\admin\source\repos\Kalkulator Spalania\Kalkulator Spalania\bin\Debug\Kalkulator Spalania.exe
+C:\Users\admin\source\repos\Kalkulator Spalania\Kalkulator Spalania\bin\Debug\Kalkulator Spalania.pdb
+C:\Users\admin\source\repos\Kalkulator Spalania\Kalkulator Spalania\obj\Debug\Kalkulator Spalania.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Kalkulator Spalania\Kalkulator Spalania\obj\Debug\Kalkulator_Spalania.Form1.resources
+C:\Users\admin\source\repos\Kalkulator Spalania\Kalkulator Spalania\obj\Debug\Kalkulator_Spalania.Properties.Resources.resources
+C:\Users\admin\source\repos\Kalkulator Spalania\Kalkulator Spalania\obj\Debug\Kalkulator Spalania.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Kalkulator Spalania\Kalkulator Spalania\obj\Debug\Kalkulator Spalania.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Kalkulator Spalania\Kalkulator Spalania\obj\Debug\Kalkulator Spalania.exe
+C:\Users\admin\source\repos\Kalkulator Spalania\Kalkulator Spalania\obj\Debug\Kalkulator Spalania.pdb
